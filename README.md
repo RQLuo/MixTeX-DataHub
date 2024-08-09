@@ -17,6 +17,13 @@ LaTeXDataHub 是一个开源平台，致力于共享和贡献真实 LaTeX 图像
 对于完整修改标注提交我们将延续之前的训练，对于反馈我们将会探索RLHF训练方法。
 ![85bc606db5bb0fba07acd2656cbf777](https://github.com/user-attachments/assets/6e9bca0b-017a-40e2-be81-2c65d931e552)
 
+### Latex 伪代码
+![image](https://github.com/user-attachments/assets/b3a19765-66c8-4888-81b8-d7184f7347e0)
+
+![image](https://github.com/user-attachments/assets/3fa05540-aa42-4436-b40c-0cc88754a4e0)
+
+参考数据集：https://huggingface.co/datasets/stanford-crfm/i2s-latex?row=0
+
 ## 特殊数据集收集项目1：手写latex草稿数据集 (对应模型参数 150-200M) 接受无标注图片
 手写latex 可以是平时作业的手写稿件，也可以是在推导过程中的草稿，**需要分为两类（整洁，草稿）**。
 ![屏幕截图 2024-08-05 025839](https://github.com/user-attachments/assets/893d395d-60e4-4c78-a6b7-fc0f97f02528)
